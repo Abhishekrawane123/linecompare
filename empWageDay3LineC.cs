@@ -7,7 +7,8 @@ namespace empWageDay3
     class empWageDay3LineC
     {
         public static void EmpWageDay3LineC()
-        {
+        { 
+            //variables
             int X1 = 4;
             int Y1 = 2;
             int X2 = 1;
